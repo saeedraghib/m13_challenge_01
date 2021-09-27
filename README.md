@@ -22,6 +22,16 @@ Optimize the neural network model.
 <br>
 
 ---
+## RESULTS<br>
+There wasn't much of a change in accuracy when I increases the hidden layers or increased the epochs value.
+<br>
+The highest accuracy I could get is 73.01%
+
+In addition to the original method, THREE alternative methods were used:<br>
+Alternative Method 1: 2 hidden layers & 50 epochs<br>
+Alternative Method 2: 2 hidden layers & 100 epochs<br>
+Alternative Method 3: 3 hidden layers & 100 epochs<br>
+
 
 ## Technologies
 
